@@ -1,0 +1,2 @@
+Volume: 1
+Sound: Standart
