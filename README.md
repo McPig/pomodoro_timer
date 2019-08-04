@@ -1,5 +1,5 @@
 # Pomodoro Timer
-This timer allows you to effectively use the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+This minimalistic timer allows you to effectively use the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 ## Prerequisites
 1. [Python for Windows](https://www.python.org/downloads/windows/)
