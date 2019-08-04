@@ -4,6 +4,7 @@ This timer allows you to effectively use the [Pomodoro technique](https://en.wik
 ## Prerequisites
 1. [Python for Windows](https://www.python.org/downloads/windows/)
 2. [PyGame](https://www.pygame.org/download.shtml)
+
 This version works only on Windows.
 
 ## License
